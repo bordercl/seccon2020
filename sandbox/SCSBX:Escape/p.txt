@@ -1,0 +1,12 @@
+
+    Challenge
+    0 Solves
+
+SCSBX:Escape
+500
+
+Did you find the vulnerability in SecCon SandBoX?
+
+nc pwn-neko.chal.seccon.jp 19001
+
+* The attachment includes the libc binary. Check SCSBX:Reversing for the source code.

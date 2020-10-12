@@ -1,0 +1,12 @@
+
+    Challenge
+    0 Solves
+
+mlml
+500
+
+The type system of OCaml is based on Hindley–Milner type system. You cannot get out of the type sandbox.
+
+nc mlml.chal.seccon.jp 30001
+
+dist.tar.gz

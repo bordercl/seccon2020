@@ -1,0 +1,11 @@
+
+    Challenge
+    2 Solves
+
+CONVaaS
+470
+
+CONVaaS stands for CONVerter as a Service.
+The free trial is available on:
+
+nc convaas.chal.seccon.jp 53440

@@ -1,0 +1,10 @@
+
+    Challenge
+    0 Solves
+
+encryptor
+500
+
+Encryption only!
+
+nc pwn-inu.chal.seccon.jp 9022

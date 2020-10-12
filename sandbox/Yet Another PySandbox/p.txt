@@ -1,0 +1,12 @@
+
+    Challenge
+    2 Solves
+
+Yet Another PySandbox
+470
+
+There are tons of python-sandbox challs. Today, we give you yet another python sandbox chall.
+
+nc py-sandbox.chal.seccon.jp 30002
+
+run.py

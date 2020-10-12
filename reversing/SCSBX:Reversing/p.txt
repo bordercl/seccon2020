@@ -1,0 +1,10 @@
+
+    Challenge
+    7 Solves
+
+SCSBX:Reversing
+322
+
+SecCon SandBoX is an open-sourced virtual machine!
+
+./scsbx seccon.bin

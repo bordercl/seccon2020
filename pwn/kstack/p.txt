@@ -1,0 +1,10 @@
+
+    Challenge
+    0 Solves
+
+kstack
+500
+
+Stack is one of the most fundamental data structure.
+
+nc pwn-inu.chal.seccon.jp 9002

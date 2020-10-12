@@ -1,0 +1,12 @@
+
+    Challenge
+    1 Solves
+
+Yet^2 Another PySandbox
+500
+
+hahaha, endless, YET YET ANOTHER python sandbox challenge!
+
+nc py-sandbox.chal.seccon.jp 30003
+
+run.py

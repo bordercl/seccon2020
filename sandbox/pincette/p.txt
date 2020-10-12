@@ -1,0 +1,10 @@
+
+    Challenge
+    0 Solves
+
+pincette
+500
+
+pincette.chal.seccon.jp:10000
+
+pincette.tgz

@@ -1,0 +1,17 @@
+
+    Challenge
+    2 Solves
+
+Fixer
+470
+
+usage
+
+$ python3.9 fixer.cpython-39.pyc
+SECCON{DUMMY_FLAG}
+wrong
+$
+
+Note: SECCON{DUMMY_FLAG} is not the actual flag.
+
+fixer.cpython-39.pyc

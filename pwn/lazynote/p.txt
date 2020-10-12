@@ -1,0 +1,10 @@
+
+    Challenge
+    3 Solves
+
+lazynote
+428
+
+I'm too lazy to finish writing my program.
+
+nc pwn-neko.chal.seccon.jp 9003
